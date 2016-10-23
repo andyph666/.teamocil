@@ -1,0 +1,13 @@
+  windows:
+    - name: window-one
+      layout: main-horizontal
+      root: ~
+      panes:
+        - tmux resize-pane -U 20
+        - pwd
+        - pwd
+        - whoami
+    - name: window-two
+      root: ~
+      panes:
+        - pwd
