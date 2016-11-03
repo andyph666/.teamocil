@@ -1,0 +1,15 @@
+    name: tm_def2
+    windows:
+        - name: tm_def2-one
+          layout: e90c,289x93,0,0[289x73,0,0{92x73,0,0,35,102x73,93,0,37,93x73,196,0,38},289x19,0,74{144x19,0,74,36,144x19,145,74,39}]
+          root: ~
+          panes:
+                - pwd
+                - pwd
+                - pwd
+                - pwd
+                - pwd
+        - name: tm_def2-two
+          root: ~
+          panes:
+                - pwd
